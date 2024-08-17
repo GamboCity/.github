@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/5bc5b53d-7a1b-4e09-ac66-b7c9bd5b5a87)
+<img src="https://github.com/user-attachments/assets/ff235876-eb58-4d8c-be05-451c27e92fdf" alt="Gambo City Logo" width="200"/>
 
 # GamboCity
 
